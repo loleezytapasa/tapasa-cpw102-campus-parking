@@ -26,6 +26,7 @@ Take the number of parked hours from the driver.
 Know the cost of parking per hour rate.
 Be able to calculate partial hours.
 The program must accurately tell the user the estimated cost of parking.
+
 The program could:
 
 - Keep track of driver and vehicle details 
@@ -43,3 +44,4 @@ What will this version **not** do?
 
 We will know the product works when:
 We do a calculation by hand and verify the program output
+The program accurately charges partial hours 
